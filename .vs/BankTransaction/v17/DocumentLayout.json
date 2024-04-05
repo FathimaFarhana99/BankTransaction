@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\models\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\models\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\migrations\\20240326185437_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\migrations\\20240326185437_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\migrations\\20240306102417_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\migrations\\20240306102417_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\banktransaction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\banktransaction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\migrations\\transactiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\migrations\\transactiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|c:\\users\\hp\\desktop\\intern\\06.03.2024\\banktransaction\\banktransaction\\banktransaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77F05EA1-65C0-4EA2-A1E5-7FF9313C034E}|BankTransaction\\BankTransaction.csproj|solutionrelative:banktransaction\\banktransaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "BankTransaction\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:59:05.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Models\\TransactionDbContext.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Models\\TransactionDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Models\\TransactionDbContext.cs",
+              "RelativeToolTip": "BankTransaction\\Models\\TransactionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:21:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\transaction\\Index.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\transaction\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T19:06:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\transaction\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\transaction\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\transaction\\AddOrEdit.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\transaction\\AddOrEdit.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T11:44:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "transaction.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Models\\transaction.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Models\\transaction.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Models\\transaction.cs",
+              "RelativeToolTip": "BankTransaction\\Models\\transaction.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:59:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T11:23:57.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:23:39.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\transaction\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\transaction\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\transaction\\Delete.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\transaction\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:24:51.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankTransaction\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:56:43.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BankTransaction",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\BankTransaction.csproj",
+              "RelativeDocumentMoniker": "BankTransaction\\BankTransaction.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\BankTransaction.csproj",
+              "RelativeToolTip": "BankTransaction\\BankTransaction.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T05:56:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankTransaction\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:22:36.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240306102417_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Migrations\\20240306102417_Initial Create.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Migrations\\20240306102417_Initial Create.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Migrations\\20240306102417_Initial Create.cs",
+              "RelativeToolTip": "BankTransaction\\Migrations\\20240306102417_Initial Create.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:24:19.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\appsettings.json",
+              "RelativeDocumentMoniker": "BankTransaction\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\appsettings.json",
+              "RelativeToolTip": "BankTransaction\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T05:46:00.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240326185437_ini.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Migrations\\20240326185437_ini.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Migrations\\20240326185437_ini.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Migrations\\20240326185437_ini.cs",
+              "RelativeToolTip": "BankTransaction\\Migrations\\20240326185437_ini.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:54:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Program.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Program.cs",
+              "RelativeToolTip": "BankTransaction\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T04:43:16.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Migrations\\TransactionDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BankTransaction\\Migrations\\TransactionDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Migrations\\TransactionDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BankTransaction\\Migrations\\TransactionDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:22:12.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:25:42.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:25:38.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:24:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T02:24:17.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BankTransaction\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BankTransaction\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T05:54:54.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BankTransaction.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\BankTransaction.csproj",
+              "RelativeDocumentMoniker": "BankTransaction\\BankTransaction.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\intern\\06.03.2024\\BankTransaction\\BankTransaction\\BankTransaction.csproj",
+              "RelativeToolTip": "BankTransaction\\BankTransaction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T07:28:10.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
